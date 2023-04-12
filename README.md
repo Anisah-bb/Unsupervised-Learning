@@ -1,15 +1,12 @@
 ## Lung cancer prediction
-A study about the attractiveness of humans to mosquitoes.
 
-Description
+## Description
 This respository contains the steps in the development of a machine learning model that clusters different types of histology tags of lung cancer.
 
-Data
+## Data
 The clinical dataset can be downloaded here: https://wiki.cancerimagingarchive.net/download/attachments/16056856/Lung3.metadata.xls?version=1&modificationDate=1404237338168&api=v2. While the gene expression dataset can be found at https://ftp.ncbi.nlm.nih.gov/geo/series/GSE58nnn/GSE58661/matrix/GSE58661_series_matrix.txt.gz. The labels for the gene expression data were gotten from the clinical dataset.
 
-
-
-Installation
+## Installation
 Single install
 The easiest way to install all the required packages is via conda. How to install conda on your system can be found here.
 
