@@ -27,6 +27,7 @@ To open the dashboard run the dashboard_mosquitoes.ipynb notebook from top to bo
 ## Requirements
 \begin{center}
 \begin{tabular}{ c c c }
+  \hline
 Software	Version \\
 Python	3.9.7 \\
 Packages \\
@@ -41,6 +42,7 @@ scipy	1.7.1 \\
 jupyter	1.0.0 \\
 statsmodel	0.12.2 \\
 pathlib	1.0.1 \\
+  \hline
 \end{tabular}
 \end{center}
 
