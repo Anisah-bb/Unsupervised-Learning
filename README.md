@@ -28,6 +28,7 @@ To open the dashboard run the dashboard_mosquitoes.ipynb notebook from top to bo
 | Software | Version |
 | --- | --- |
 | Python |	3.9.7 |
+
 ## Packages
 | Package | Version |
 | numpy	| 1.21.2 |
