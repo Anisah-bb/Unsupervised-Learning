@@ -25,26 +25,21 @@ Getting started
 To open the dashboard run the dashboard_mosquitoes.ipynb notebook from top to bottom.
 
 ## Requirements
-\begin{center}
-\begin{tabular}{ c c c }
-  \hline
-Software	Version \\
-Python	3.9.7 \\
-Packages \\
-Package	Version \\
-numpy	1.21.2 \\
-pandas	1.3.3 \\
-bokeh	2.3.3 \\
-panel	0.12.1 \\
-holoviews	1.14.6 \\
-hvplot	0.7.3 \\
-scipy	1.7.1 \\
-jupyter	1.0.0 \\
-statsmodel	0.12.2 \\
-pathlib	1.0.1 \\
-  \hline
-\end{tabular}
-\end{center}
+| Software | Version |
+| --- | --- |
+| Python |	3.9.7 |
+## Packages
+| Package | Version |
+| numpy	| 1.21.2 |
+|pandas	| 1.3.3 |
+| bokeh	| 2.3.3 |
+| panel	| 0.12.1 |
+| holoviews |	1.14.6 |
+| hvplot |	0.7.3 |
+|scipy |	1.7.1 |
+| jupyter |	1.0.0 |
+|statsmodel |	0.12.2 |
+| pathlib	| 1.0.1 |
 
 ## License
 This project contains a MIT.
